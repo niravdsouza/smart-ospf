@@ -2,6 +2,9 @@
 
 N=`cat ./reference/configs.conf | grep N= | cut -d= -f2`
 
+rm ./reference/previous_bytes.*
+rm ./history/historicaldata.*
+
 for int in $(cat ./reference/configs.conf | grep interfaces= | cut -d= -f2 | sed 's/,/ /g')
 do
 	current_rx=`ifconfig $int | grep bytes | awk '{print $2}' | cut -d: -f2`

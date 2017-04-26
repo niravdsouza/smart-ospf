@@ -67,16 +67,20 @@ do
 	fi
 
 	# Get the link cost from average utilization
-	cat ./reference/linkcosts | while read line
+	sed '1d' ./reference/linkcosts | while read line
 	do
 		lower=`echo $line | cut -d, -f1`
 		upper=`echo $line | cut -d, -f2`
-		if [[ $avg_utilization -ge $lower ]] && [[ $avg_utilization -le $upper ]]
+
+		if [ $avg_utilization -ge $lower ]
 		then
-			tablecost=`echo $line | cut -d, -f3`
-			multiplication_factor=`cat ./reference/configs.conf | grep $int"_multiplication_factor" | cut -d= -f2`
-			linkcost=`expr $tablecost \* $multiplication_factor`
-			break
+			if [ $avg_utilization -le $upper ]
+			then
+				tablecost=`echo $line | cut -d, -f3`
+				multiplication_factor=`cat ./reference/configs.conf | grep $int"_multiplication_factor" | cut -d= -f2`
+				linkcost=`expr $tablecost \* $multiplication_factor`
+				break
+			fi
 		fi
 	done
 
