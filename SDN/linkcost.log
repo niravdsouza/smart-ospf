@@ -1,0 +1,2664 @@
+Sat Apr 29 00:38:01 EDT 2017
+For interface eth1
+Current RX: 26781098
+Current TX: 2434440636
+Previous RX: 26767568
+Previous TX: 2434416108
+Diff RX: 13530
+Diff TX: 24528
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 2720700
+Current TX: 21614112
+Previous RX: 2667936
+Previous TX: 6423308
+Diff RX: 52764
+Diff TX: 15190804
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: watchquagga.
+Stopping Quagga daemons (prio:0): ospfd zebra (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ospf cost 1
+
+Sat Apr 29 00:39:01 EDT 2017
+For interface eth1
+Current RX: 26781582
+Current TX: 2434440858
+Previous RX: 26781098
+Previous TX: 2434440636
+Diff RX: 484
+Diff TX: 222
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+expr: syntax error
+For interface eth2
+Current RX: 2721338
+Current TX: 21614256
+Previous RX: 2720700
+Previous TX: 21614112
+Diff RX: 638
+Diff TX: 144
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ospf cost 1
+
+Sat Apr 29 00:40:01 EDT 2017
+For interface eth1
+Current RX: 26782050
+Current TX: 2434440858
+Previous RX: 26781582
+Previous TX: 2434440858
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+expr: syntax error
+For interface eth2
+Current RX: 2721806
+Current TX: 21614256
+Previous RX: 2721338
+Previous TX: 21614256
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ospf cost 1
+
+Sat Apr 29 00:41:01 EDT 2017
+For interface eth1
+Current RX: 26782518
+Current TX: 2434440858
+Previous RX: 26782050
+Previous TX: 2434440858
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+expr: syntax error
+For interface eth2
+Current RX: 2722274
+Current TX: 21614256
+Previous RX: 2721806
+Previous TX: 21614256
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ospf cost 1
+
+Sat Apr 29 00:42:01 EDT 2017
+For interface eth1
+Current RX: 26782986
+Current TX: 2434440858
+Previous RX: 26782518
+Previous TX: 2434440858
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+expr: syntax error
+For interface eth2
+Current RX: 2722742
+Current TX: 21614256
+Previous RX: 2722274
+Previous TX: 21614256
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ospf cost 1
+
+Sat Apr 29 00:43:01 EDT 2017
+For interface eth1
+Current RX: 26783454
+Current TX: 2434440858
+Previous RX: 26782986
+Previous TX: 2434440858
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+expr: syntax error
+For interface eth2
+Current RX: 2723210
+Current TX: 21614256
+Previous RX: 2722742
+Previous TX: 21614256
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ospf cost 1
+
+Sat Apr 29 00:44:01 EDT 2017
+For interface eth1
+Current RX: 26783922
+Current TX: 2434440858
+Previous RX: 26783454
+Previous TX: 2434440858
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+expr: syntax error
+For interface eth2
+Current RX: 2723678
+Current TX: 21614256
+Previous RX: 2723210
+Previous TX: 21614256
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ ospf cost 1
+
+Sat Apr 29 00:45:01 EDT 2017
+For interface eth1
+Current RX: 26784390
+Current TX: 2434440858
+Previous RX: 26783922
+Previous TX: 2434440858
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+expr: syntax error
+For interface eth2
+Current RX: 2724146
+Current TX: 21614256
+Previous RX: 2723678
+Previous TX: 21614256
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ospf cost 1
+
+Sat Apr 29 00:46:02 EDT 2017
+For interface eth1
+Current RX: 26784858
+Current TX: 2434441502
+Previous RX: 26784390
+Previous TX: 2434440858
+Diff RX: 468
+Diff TX: 644
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 2724614
+Current TX: 21614900
+Previous RX: 2724146
+Previous TX: 21614256
+Diff RX: 468
+Diff TX: 644
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: watchquagga.
+Stopping Quagga daemons (prio:0): ospfd zebra (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ospf cost 1
+
+Sat Apr 29 00:50:01 EDT 2017
+For interface eth1
+Current RX: 26788814
+Current TX: 2434446828
+Previous RX: 26784858
+Previous TX: 2434441502
+Diff RX: 3956
+Diff TX: 5326
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 2727708
+Current TX: 311459546
+Previous RX: 2724614
+Previous TX: 21614900
+Diff RX: 3094
+Diff TX: 289844646
+Bandwidth: 1000000
+TX > RX
+Utilization: 100
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: watchquagga.
+Stopping Quagga daemons (prio:0): ospfd zebra (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ip ospf cost 1
+
+Sat Apr 29 00:51:01 EDT 2017
+For interface eth1
+Current RX: 26789464
+Current TX: 2434447050
+Previous RX: 26788814
+Previous TX: 2434446828
+Diff RX: 650
+Diff TX: 222
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 2728192
+Current TX: 312539176
+Previous RX: 2727708
+Previous TX: 311459546
+Diff RX: 484
+Diff TX: 1079630
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ip ospf cost 1
+
+Sat Apr 29 00:52:01 EDT 2017
+For interface eth1
+Current RX: 26789932
+Current TX: 2434447050
+Previous RX: 26789464
+Previous TX: 2434447050
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 2728660
+Current TX: 312539176
+Previous RX: 2728192
+Previous TX: 312539176
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ip ospf cost 1
+
+Sat Apr 29 00:53:01 EDT 2017
+For interface eth1
+Current RX: 26790400
+Current TX: 2434447050
+Previous RX: 26789932
+Previous TX: 2434447050
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 2729128
+Current TX: 312539176
+Previous RX: 2728660
+Previous TX: 312539176
+Diff RX: 468
+Diff TX: 0
+Bandwidth: 1000000
+RX > TX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Running OSPF
+Stopping Quagga monitor daemon: (watchquagga).
+Stopping Quagga daemons (prio:0): (ospfd) (zebra) (bgpd) (ripd) (ripngd) (ospf6d) (isisd) (babeld).
+Removing all routes made by zebra.
+Loading capability module if not yet done.
+Starting Quagga daemons (prio:10): zebraThere is no such command.
+Error occured during reading below line.
+ip ospf cost 1
+
+Sat Apr 29 12:10:06 EDT 2017
+For interface eth1
+Current RX: 27153884
+Current TX: 2435139182
+Previous RX: 26790400
+Previous TX: 2434447050
+Diff RX: 363484
+Diff TX: 692132
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 3091654
+Current TX: 313220852
+Previous RX: 2729128
+Previous TX: 312539176
+Diff RX: 362526
+Diff TX: 681676
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Sat Apr 29 12:10:42 EDT 2017
+For interface eth1
+Current RX: 27154328
+Current TX: 2435140410
+Previous RX: 27153884
+Previous TX: 2435139182
+Diff RX: 444
+Diff TX: 1228
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 3092098
+Current TX: 313221920
+Previous RX: 3091654
+Previous TX: 313220852
+Diff RX: 444
+Diff TX: 1068
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Sat Apr 29 12:12:01 EDT 2017
+For interface eth1
+Current RX: 27154984
+Current TX: 2435141690
+Previous RX: 27154328
+Previous TX: 2435140410
+Diff RX: 656
+Diff TX: 1280
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3092754
+Current TX: 313223200
+Previous RX: 3092098
+Previous TX: 313221920
+Diff RX: 656
+Diff TX: 1280
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:13:01 EDT 2017
+For interface eth1
+Current RX: 27155476
+Current TX: 2435142650
+Previous RX: 27154984
+Previous TX: 2435141690
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3098556
+Current TX: 346181384
+Previous RX: 3092754
+Previous TX: 313223200
+Diff RX: 5802
+Diff TX: 32958184
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:14:01 EDT 2017
+For interface eth1
+Current RX: 27156062
+Current TX: 2435143782
+Previous RX: 27155476
+Previous TX: 2435142650
+Diff RX: 586
+Diff TX: 1132
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# quit
+ospfd(config)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3134162
+Current TX: 954460232
+Previous RX: 3098556
+Previous TX: 346181384
+Diff RX: 35606
+Diff TX: 608278848
+Bandwidth: 1000000
+TX > RX
+Utilization: 100
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:15:01 EDT 2017
+For interface eth1
+Current RX: 27156554
+Current TX: 2435144742
+Previous RX: 27156062
+Previous TX: 2435143782
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3157748
+Current TX: 1341581500
+Previous RX: 3134162
+Previous TX: 954460232
+Diff RX: 23586
+Diff TX: 387121268
+Bandwidth: 1000000
+TX > RX
+Utilization: 100
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# quit
+ospfd(config)# Connection closed by foreign host.
+Sat Apr 29 12:16:01 EDT 2017
+For interface eth1
+Current RX: 27157046
+Current TX: 2435145702
+Previous RX: 27156554
+Previous TX: 2435144742
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3158240
+Current TX: 1341582460
+Previous RX: 3157748
+Previous TX: 1341581500
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:17:01 EDT 2017
+For interface eth1
+Current RX: 27157538
+Current TX: 2435146662
+Previous RX: 27157046
+Previous TX: 2435145702
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3158732
+Current TX: 1341583420
+Previous RX: 3158240
+Previous TX: 1341582460
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:18:01 EDT 2017
+For interface eth1
+Current RX: 27158030
+Current TX: 2435147622
+Previous RX: 27157538
+Previous TX: 2435146662
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3159224
+Current TX: 1341584380
+Previous RX: 3158732
+Previous TX: 1341583420
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:19:01 EDT 2017
+For interface eth1
+Current RX: 27158522
+Current TX: 2435148582
+Previous RX: 27158030
+Previous TX: 2435147622
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# quit
+ospfd(config)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3159800
+Current TX: 1917970610
+Previous RX: 3159224
+Previous TX: 1341584380
+Diff RX: 576
+Diff TX: 576386230
+Bandwidth: 1000000
+TX > RX
+Utilization: 100
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# quit
+ospfd(config)# Connection closed by foreign host.
+Sat Apr 29 12:20:01 EDT 2017
+For interface eth1
+Current RX: 27159014
+Current TX: 2435149542
+Previous RX: 27158522
+Previous TX: 2435148582
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3162014
+Current TX: 2226002510
+Previous RX: 3159800
+Previous TX: 1917970610
+Diff RX: 2214
+Diff TX: 308031900
+Bandwidth: 1000000
+TX > RX
+Utilization: 100
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:21:01 EDT 2017
+For interface eth1
+Current RX: 27159506
+Current TX: 2435150502
+Previous RX: 27159014
+Previous TX: 2435149542
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3164144
+Current TX: 2463190876
+Previous RX: 3162014
+Previous TX: 2226002510
+Diff RX: 2130
+Diff TX: 237188366
+Bandwidth: 1000000
+TX > RX
+Utilization: 100
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:22:01 EDT 2017
+For interface eth1
+Current RX: 27160092
+Current TX: 2435151634
+Previous RX: 27159506
+Previous TX: 2435150502
+Diff RX: 586
+Diff TX: 1132
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3164730
+Current TX: 2463191914
+Previous RX: 3164144
+Previous TX: 2463190876
+Diff RX: 586
+Diff TX: 1038
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:23:01 EDT 2017
+For interface eth1
+Current RX: 27160584
+Current TX: 2435152594
+Previous RX: 27160092
+Previous TX: 2435151634
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3165222
+Current TX: 2463192874
+Previous RX: 3164730
+Previous TX: 2463191914
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 1000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:24:01 EDT 2017
+For interface eth1
+Current RX: 27161170
+Current TX: 2435153726
+Previous RX: 27160584
+Previous TX: 2435152594
+Diff RX: 586
+Diff TX: 1132
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3165808
+Current TX: 2463193912
+Previous RX: 3165222
+Previous TX: 2463192874
+Diff RX: 586
+Diff TX: 1038
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:25:01 EDT 2017
+For interface eth1
+Current RX: 27161772
+Current TX: 2435154874
+Previous RX: 27161170
+Previous TX: 2435153726
+Diff RX: 602
+Diff TX: 1148
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3166410
+Current TX: 2469690662
+Previous RX: 3165808
+Previous TX: 2463193912
+Diff RX: 602
+Diff TX: 6496750
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:26:01 EDT 2017
+For interface eth1
+Current RX: 27162492
+Current TX: 2435156124
+Previous RX: 27161772
+Previous TX: 2435154874
+Diff RX: 720
+Diff TX: 1250
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3168726
+Current TX: 2714729700
+Previous RX: 3166410
+Previous TX: 2469690662
+Diff RX: 2316
+Diff TX: 245039038
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:27:01 EDT 2017
+For interface eth1
+Current RX: 27162984
+Current TX: 2435157084
+Previous RX: 27162492
+Previous TX: 2435156124
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3170856
+Current TX: 2983986116
+Previous RX: 3168726
+Previous TX: 2714729700
+Diff RX: 2130
+Diff TX: 269256416
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:28:01 EDT 2017
+For interface eth1
+Current RX: 27163476
+Current TX: 2435158044
+Previous RX: 27162984
+Previous TX: 2435157084
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3171348
+Current TX: 2983987076
+Previous RX: 3170856
+Previous TX: 2983986116
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 12:39:30 EDT 2017
+For interface eth1
+Current RX: 27169762
+Current TX: 2435169796
+Previous RX: 27163476
+Previous TX: 2435158044
+Diff RX: 6286
+Diff TX: 11752
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=4487606
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 3177634
+Current TX: 2983999002
+Previous RX: 3171348
+Previous TX: 2983987076
+Diff RX: 6286
+Diff TX: 11926
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=4487606
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Sat Apr 29 12:41:21 EDT 2017
+For interface eth1
+Current RX: 27170664
+Current TX: 2435171556
+Previous RX: 27169762
+Previous TX: 2435169796
+Diff RX: 902
+Diff TX: 1760
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=4487606
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 3178536
+Current TX: 2984000762
+Previous RX: 3177634
+Previous TX: 2983999002
+Diff RX: 902
+Diff TX: 1760
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=4487606
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 14
+Linkcost: 2
+Sat Apr 29 12:43:08 EDT 2017
+For interface eth1
+Current RX: 27171858
+Current TX: 2435173710
+Previous RX: 27170664
+Previous TX: 2435171556
+Diff RX: 1194
+Diff TX: 2154
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 3179730
+Current TX: 2984002822
+Previous RX: 3178536
+Previous TX: 2984000762
+Diff RX: 1194
+Diff TX: 2060
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Sat Apr 29 12:44:46 EDT 2017
+For interface eth1
+Current RX: 27172876
+Current TX: 2435175692
+Previous RX: 27171858
+Previous TX: 2435173710
+Diff RX: 1018
+Diff TX: 1982
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=44
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 3180748
+Current TX: 2984004804
+Previous RX: 3179730
+Previous TX: 2984002822
+Diff RX: 1018
+Diff TX: 1982
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=44
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Sat Apr 29 12:46:50 EDT 2017
+For interface eth1
+Current RX: 27173860
+Current TX: 2435177772
+Previous RX: 27172876
+Previous TX: 2435175692
+Diff RX: 984
+Diff TX: 2080
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 3181732
+Current TX: 2984006884
+Previous RX: 3180748
+Previous TX: 2984004804
+Diff RX: 984
+Diff TX: 2080
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Sat Apr 29 12:48:34 EDT 2017
+For interface eth1
+Current RX: 27174680
+Current TX: 2435179372
+Previous RX: 27173860
+Previous TX: 2435177772
+Diff RX: 820
+Diff TX: 1600
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 3182678
+Current TX: 3304144572
+Previous RX: 3181732
+Previous TX: 2984006884
+Diff RX: 946
+Diff TX: 320137688
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=53
+Temp 2=1000000000
+Utilization: 53
+Average utilization: 0
+Linkcost: 1
+Sat Apr 29 12:49:16 EDT 2017
+For interface eth1
+Current RX: 27175090
+Current TX: 2435180012
+Previous RX: 27174680
+Previous TX: 2435179372
+Diff RX: 410
+Diff TX: 640
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+For interface eth2
+Current RX: 3184684
+Current TX: 3498298276
+Previous RX: 3182678
+Previous TX: 3304144572
+Diff RX: 2006
+Diff TX: 194153704
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=32
+Temp 2=1000000000
+Utilization: 32
+Average utilization: 0
+Linkcost: 1
+Sat Apr 29 13:19:01 EDT 2017
+For interface eth1
+Current RX: 27190872
+Current TX: 2435210446
+Previous RX: 27175090
+Previous TX: 2435180012
+Diff RX: 15782
+Diff TX: 30434
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3200508
+Current TX: 3498329492
+Previous RX: 3184684
+Previous TX: 3498298276
+Diff RX: 15824
+Diff TX: 31216
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:20:01 EDT 2017
+For interface eth1
+Current RX: 27191364
+Current TX: 2435211406
+Previous RX: 27190872
+Previous TX: 2435210446
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3201000
+Current TX: 3498330452
+Previous RX: 3200508
+Previous TX: 3498329492
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 50
+Linkcost: 5
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 5
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:21:01 EDT 2017
+For interface eth1
+Current RX: 27192054
+Current TX: 2435212748
+Previous RX: 27191364
+Previous TX: 2435211406
+Diff RX: 690
+Diff TX: 1342
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3201690
+Current TX: 3498331794
+Previous RX: 3201000
+Previous TX: 3498330452
+Diff RX: 690
+Diff TX: 1342
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 20
+Linkcost: 2
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 2
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:22:01 EDT 2017
+For interface eth1
+Current RX: 27192838
+Current TX: 2435214262
+Previous RX: 27192054
+Previous TX: 2435212748
+Diff RX: 784
+Diff TX: 1514
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3202474
+Current TX: 3498333214
+Previous RX: 3201690
+Previous TX: 3498331794
+Diff RX: 784
+Diff TX: 1420
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 70
+Linkcost: 7
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 7
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:23:01 EDT 2017
+For interface eth1
+Current RX: 27193622
+Current TX: 2435215776
+Previous RX: 27192838
+Previous TX: 2435214262
+Diff RX: 784
+Diff TX: 1514
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3203314
+Current TX: 3498334634
+Previous RX: 3202474
+Previous TX: 3498333214
+Diff RX: 840
+Diff TX: 1420
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:24:01 EDT 2017
+For interface eth1
+Current RX: 27194422
+Current TX: 2435217306
+Previous RX: 27193622
+Previous TX: 2435215776
+Diff RX: 800
+Diff TX: 1530
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3204114
+Current TX: 3498336054
+Previous RX: 3203314
+Previous TX: 3498334634
+Diff RX: 800
+Diff TX: 1420
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:25:01 EDT 2017
+For interface eth1
+Current RX: 27194914
+Current TX: 2435218266
+Previous RX: 27194422
+Previous TX: 2435217306
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3204606
+Current TX: 3498337014
+Previous RX: 3204114
+Previous TX: 3498336054
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 14
+Linkcost: 2
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 2
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:26:01 EDT 2017
+For interface eth1
+Current RX: 27195738
+Current TX: 2435219820
+Previous RX: 27194914
+Previous TX: 2435218266
+Diff RX: 824
+Diff TX: 1554
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3205430
+Current TX: 3498338434
+Previous RX: 3204606
+Previous TX: 3498337014
+Diff RX: 824
+Diff TX: 1420
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 14
+Linkcost: 2
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 2
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:27:01 EDT 2017
+For interface eth1
+Current RX: 27196324
+Current TX: 2435220858
+Previous RX: 27195738
+Previous TX: 2435219820
+Diff RX: 586
+Diff TX: 1038
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3206016
+Current TX: 3498339566
+Previous RX: 3205430
+Previous TX: 3498338434
+Diff RX: 586
+Diff TX: 1132
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 14
+Linkcost: 2
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 2
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:28:01 EDT 2017
+For interface eth1
+Current RX: 27196816
+Current TX: 2435221818
+Previous RX: 27196324
+Previous TX: 2435220858
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3206508
+Current TX: 3498340526
+Previous RX: 3206016
+Previous TX: 3498339566
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:29:01 EDT 2017
+For interface eth1
+Current RX: 27197628
+Current TX: 2435223238
+Previous RX: 27196816
+Previous TX: 2435221818
+Diff RX: 812
+Diff TX: 1420
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3207320
+Current TX: 3498342068
+Previous RX: 3206508
+Previous TX: 3498340526
+Diff RX: 812
+Diff TX: 1542
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> en
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:30:01 EDT 2017
+For interface eth1
+Current RX: 27198120
+Current TX: 2435224198
+Previous RX: 27197628
+Previous TX: 2435223238
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3207812
+Current TX: 3498343028
+Previous RX: 3207320
+Previous TX: 3498342068
+Diff RX: 492
+Diff TX: 960
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+Sat Apr 29 13:31:01 EDT 2017
+For interface eth1
+Current RX: 27198800
+Current TX: 2435225350
+Previous RX: 27198120
+Previous TX: 2435224198
+Diff RX: 680
+Diff TX: 1152
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth1
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
+For interface eth2
+Current RX: 3208492
+Current TX: 3498344180
+Previous RX: 3207812
+Previous TX: 3498343028
+Diff RX: 680
+Diff TX: 1152
+Bandwidth: 10000000
+TX > RX
+p=60
+Temp 1=0
+Temp 2=1000000000
+Utilization: 0
+Average utilization: 0
+Linkcost: 1
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+
+Hello, this is Quagga (version 0.99.22.4).
+Copyright 1996-2005 Kunihiro Ishiguro, et al.
+
+
+User Access Verification
+
+Password: 
+ospfd> 
+ospfd> en
+ospfd# 
+ospfd# conf t
+ospfd(config)# int eth2
+ospfd(config-if)# ip ospf cost 1
+ospfd(config-if)# Connection closed by foreign host.
