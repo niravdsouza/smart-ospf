@@ -1,9 +1,9 @@
 bash <<EOF2
-useradd test;passwd test;sudo adduser test sudo
+#useradd test;passwd test;sudo adduser test sudo
 #sleep(1)
-apt-get update
+#apt-get update
 #sleep(1)
-apt-get install quagga quagga-doc traceroute
+#apt-get install quagga quagga-doc traceroute
 #sleep(5)
 cp /usr/share/doc/quagga/examples/zebra.conf.sample /etc/quagga/zebra.conf
 cp /usr/share/doc/quagga/examples/ospfd.conf.sample /etc/quagga/ospfd.conf
@@ -30,6 +30,7 @@ interface eth1
  ipv6 nd suppress-ra
 interface eth2
  ip address 192.168.7.2/28
+ ipv6 nd suppress-ra
 interface eth3
  ip address 192.168.4.2/28
  ipv6 nd suppress-ra
