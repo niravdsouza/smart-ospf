@@ -28,7 +28,7 @@ interface eth3
 interface eth2
  ip address 192.168.8.2/28
  ipv6 nd suppress-ra
-interface eth3
+interface eth1
  ip address 192.168.3.2/28
  ipv6 nd suppress-ra
 interface lo
