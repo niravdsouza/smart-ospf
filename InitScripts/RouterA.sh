@@ -1,9 +1,9 @@
 bash <<EOF2
-useradd test;passwd test;sudo adduser test sudo
+#useradd test;passwd test;sudo adduser test sudo
 #sleep(1)
-apt-get update
+#apt-get update
 #sleep(1)
-apt-get install quagga quagga-doc traceroute
+#apt-get install quagga quagga-doc traceroute
 #sleep(5)
 cp /usr/share/doc/quagga/examples/zebra.conf.sample /etc/quagga/zebra.conf
 cp /usr/share/doc/quagga/examples/ospfd.conf.sample /etc/quagga/ospfd.conf
@@ -19,19 +19,19 @@ interface eth2
 interface eth3
 interface lo
 router ospf
- network 192.168.7.0/28 area 0.0.0.0
- network 192.168.4.0/28 area 0.0.0.0
- network 192.168.5.0/28 area 0.0.0.0
+ network 192.168.0.0/28 area 0.0.0.0
+ network 192.168.1.0/28 area 0.0.0.0
+ network 192.168.2.0/28 area 0.0.0.0
 line vty
 EOF
 cat >> /etc/quagga/zebra.conf << EOF
 interface eth1
- ip address 192.168.5.2/28
+ ip address 192.168.1.1/28
  ipv6 nd suppress-ra
 interface eth2
- ip address 192.168.7.2/28
+ ip address 192.168.0.2/28
 interface eth3
- ip address 192.168.4.2/28
+ ip address 192.168.2.1/28
  ipv6 nd suppress-ra
 interface lo
 ip forwarding
