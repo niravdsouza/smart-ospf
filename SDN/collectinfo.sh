@@ -105,6 +105,7 @@ do
 				multiplication_factor=`cat $SDN_path/reference/configs.conf | grep $int"_multiplication_factor" | cut -d= -f2`
 				linkcost=`expr $tablecost \* $multiplication_factor`
 				echo "Linkcost: $linkcost" >> $SDN_path/linkcost.log
+				# Updating the OSPF cost in Zebra
 				(echo "zebra"; echo "en"; sleep 0.000001; echo "conf t"; sleep 0.000001; echo "int $int";sleep 0.000001;echo "ip ospf cost $linkcost"; sleep 0.000001; echo "quit" ) | telnet localhost 2604
 				break
 			fi
@@ -112,9 +113,3 @@ do
 	done
 
 done
-
-# Running OSPF
-#echo "Running OSPF" >> $SDN_path/linkcost.log
-#/etc/init.d/quagga restart
-
-
