@@ -106,25 +106,6 @@ do
 				linkcost=`expr $tablecost \* $multiplication_factor`
 				echo "Linkcost: $linkcost" >> $SDN_path/linkcost.log
 				(echo "zebra"; echo "en"; sleep 0.000001; echo "conf t"; sleep 0.000001; echo "int $int";sleep 0.000001;echo "ip ospf cost $linkcost"; sleep 0.000001; echo "quit" ) | telnet localhost 2604
-				# Updating the OSPF conf file
-#				if grep -Fxq "interface $int" $ospf_config_file
-#				then
-#					costpresent=`awk "/interface $int/{getline; print}" $ospf_config_file | grep "ip ospf cost"`
-#					if [ -n "$costpresent" ]
-#					then
-#						int_linenumber=`grep -n "interface $int" $ospf_config_file | cut -d: -f1`
-#						cost_linenumber=`expr $int_linenumber + 1`
-#						sed -i -e $cost_linenumber"s/ip ospf cost .*$/ip ospf cost $linkcost/g" $ospf_config_file
-#					else
-#						costline="ip ospf cost $linkcost"
-#						sed -i "/interface $int/a $costline" $ospf_config_file
-#					fi
-#				else
-					#echo "interface $int" >> $ospf_config_file
-					#echo "ip ospf cost $linkcost" >> $ospf_config_file
-#					echo "Error: Couldn't find interface $int in OSPF config file" >> $SDN_path/linkcost.log
-#				fi
-				
 				break
 			fi
 		fi
