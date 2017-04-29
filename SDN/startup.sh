@@ -2,8 +2,15 @@
 
 N=`cat ./reference/configs.conf | grep N= | cut -d= -f2`
 
-rm ./reference/previous_bytes.*
-rm ./history/historicaldata.*
+#if [ -f ./reference/previous_bytes.* ]
+#then
+#	rm ./reference/previous_bytes.*
+#fi
+
+#if [ -f ./history/historicaldata.* ]
+#then
+#	rm ./history/historicaldata.*
+#fi
 
 for int in $(cat ./reference/configs.conf | grep interfaces= | cut -d= -f2 | sed 's/,/ /g')
 do
