@@ -23,13 +23,13 @@ line vty
 EOF
 cat >> /etc/quagga/zebra.conf << EOF
 interface eth3
- ip address 192.168.4.1/28
+ ip address 192.168.2.2/28
  ipv6 nd suppress-ra
 interface eth2
- ip address 192.168.8.2/28
+ ip address 192.168.6.1/28
  ipv6 nd suppress-ra
 interface eth1
- ip address 192.168.3.2/28
+ ip address 192.168.3.1/28
  ipv6 nd suppress-ra
 interface lo
 ip forwarding
