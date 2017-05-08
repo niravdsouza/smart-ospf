@@ -32,9 +32,11 @@ eg. If you want to run it on Router1 you will use the command
 sh Router1.sh
 
 After this is done. Go to SDN folder
-1) Run startup.sh on each router
+1) Go to reference/configs.conf
+Modify the ethernet interface names and bandwidth as needed. You also need to modify the constant parameters.
+2) Run startup.sh on each router
 Command : sh startup.sh
-2) Run collectinfo.sh in crontab
+3) Run collectinfo.sh in crontab
 Command : crontab -e
 Add the below line
 * * * * * /root/smart-ospf/SDN/collectinfo.sh >> /root/smart-ospf/SDN/linkcost.log 2>&1
